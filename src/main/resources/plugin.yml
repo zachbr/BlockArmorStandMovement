@@ -1,0 +1,6 @@
+name: BlockArmorStandMovement
+version: ${project.version}
+main: com.destroystokyo.blockarmorstandmovement.BlockArmorStandMovement
+load: STARTUP
+authors: [Z]
+website: https://github.com/Zbob750/BlockArmorStandMovement
